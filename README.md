@@ -14,7 +14,11 @@
  python fib_loop.py
 ```
 Результат:
+
+
 ![image](https://github.com/user-attachments/assets/9cf671ec-c023-4bb8-bee3-a2e4a7a2e15f)
+
+
 3.Вычисление n-го числа Фибоначчи с записью числового ряда в массив:
 ```text
  python fib_array.py
